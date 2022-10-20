@@ -1,0 +1,11 @@
+C:\Users\Tasin\source\repos\Cs Calculator\Cs Calculator\obj\Debug\Cs Calculator.csproj.AssemblyReference.cache
+C:\Users\Tasin\source\repos\Cs Calculator\Cs Calculator\obj\Debug\Cs Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tasin\source\repos\Cs Calculator\Cs Calculator\obj\Debug\Cs_Calculator.Form1.resources
+C:\Users\Tasin\source\repos\Cs Calculator\Cs Calculator\obj\Debug\Cs_Calculator.Properties.Resources.resources
+C:\Users\Tasin\source\repos\Cs Calculator\Cs Calculator\obj\Debug\Cs Calculator.csproj.GenerateResource.cache
+C:\Users\Tasin\source\repos\Cs Calculator\Cs Calculator\obj\Debug\Cs Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Tasin\source\repos\Cs Calculator\Cs Calculator\bin\Debug\Cs Calculator.exe.config
+C:\Users\Tasin\source\repos\Cs Calculator\Cs Calculator\bin\Debug\Cs Calculator.exe
+C:\Users\Tasin\source\repos\Cs Calculator\Cs Calculator\bin\Debug\Cs Calculator.pdb
+C:\Users\Tasin\source\repos\Cs Calculator\Cs Calculator\obj\Debug\Cs Calculator.exe
+C:\Users\Tasin\source\repos\Cs Calculator\Cs Calculator\obj\Debug\Cs Calculator.pdb
